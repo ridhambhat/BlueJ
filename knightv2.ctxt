@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=knightv2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=i\ j
+comment2.target=void\ testv2(int,\ int)
+comment3.params=i\ j
+comment3.target=void\ changev2(int,\ int)
+comment4.params=
+comment4.target=void\ checkv2()
+numComments=5
